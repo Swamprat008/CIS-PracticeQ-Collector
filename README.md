@@ -3,6 +3,7 @@
 This Program uses the selenium library for java, it allows your code to communicate with an HTML page.
 
 This program will collect all the questions and answers to the CISWeb practice quiz.
+I have included the .jar for instant use, without the need of an IDE.
 
 You MUST have the Java environment installed onto your system
 If you do not know how to do that then you should NOT be using this system.
