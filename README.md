@@ -1,4 +1,7 @@
 # CIS-PracticeQ-Collector
+
+This Program uses the selenium library for java, it allows your code to communicate with an HTML page.
+
 This program will collect all the questions and answers to the CISWeb practice quiz.
 
 You MUST have the Java environment installed onto your system
