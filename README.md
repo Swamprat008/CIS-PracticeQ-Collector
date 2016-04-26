@@ -1,5 +1,7 @@
 # CIS-PracticeQ-Collector
 
+READ THE WIKI PAGE, located on top on this page.
+
 This program is a proof of concept!!
 I am not responsible for how you use it!!
 
